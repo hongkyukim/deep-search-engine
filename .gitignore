@@ -48,3 +48,5 @@ search_result.json
 *.log
 .bkit/runtime/
 .bkit/state/
+.bkit/audit/
+.omc/
